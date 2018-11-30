@@ -1,6 +1,6 @@
 //LOCAL HOST URL
 
 module.exports = {
-  mongoURI: 'mongodb://localhost:port/db',
+  mongoURI: 'mongodb://localhost:27017/realwave',
   secretOrKey: 'secret'
 };
